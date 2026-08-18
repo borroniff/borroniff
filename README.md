@@ -12,8 +12,17 @@ Ao longo da minha trajetória, participei de projetos colaborativos com empresas
 Tenho um interesse profundo na intersecção entre **Estratégia de Produto e Tecnologia**.
 Meu objetivo é traduzir as necessidades dos usuários em soluções técnicas robustas, atuando como a ponte principal entre o cliente e os desenvolvedores para garantir entregas de alto impacto e valor contínuo.
 
+### Atualmente focada em:
+
+> 🚀 **Product Ownership do Projeto ?** <br>
+> Liderando a estratégia e o backlog do produto. *([Clique aqui]() e dê uma espiada!)*
+
+> 🎓 **Análise e Desenvolvimento de Sistemas** <br>
+> Reta final da graduação! Cursando o último semestre.
+
 <div align="center">
-  
+<br>
+
 ### Interesses:
 
 ![Product Discovery](https://img.shields.io/badge/Product%20Discovery-722F37?style=for-the-badge)
@@ -24,20 +33,26 @@ Meu objetivo é traduzir as necessidades dos usuários em soluções técnicas r
 ![Arquitetura Escalável](https://img.shields.io/badge/Arquitetura%20Escalável-555555?style=for-the-badge)
 ![Integração de APIs](https://img.shields.io/badge/Integração%20de%20APIs-722F37?style=for-the-badge)
 ![Design de Sistemas](https://img.shields.io/badge/Design%20de%20Sistemas-555555?style=for-the-badge)
+
 </div>
 <br>
 
-## ✨ Destaques!
+## ✨ Conheça meus projetos:
 
-| Projeto | Atuação | Descrição | Acesse! |
-| :--- | :---: | :--- | :--- |
-| **AdaTech** | `Product Owner` | Intelligent agent that integrates import data to generate automated customs records, eliminating manual rework and preventing regulatory penalties. | [https://github.com/borroniff/adatech](https://github.com/borroniff/adatech) |
-| **SyncDesk** | `Desenvolvedora Backend` | Helpdesk platform featuring automated triage, integrated chat, and audit dashboards to streamline customer support. | [https://github.com/borroniff/adatech](https://github.com/borroniff/sync-desk) |
+| Projeto | Atuação | Descrição |
+| :--- | :---: | :--- |
+| [**AdaTech**](https://github.com/borroniff/adatech) | `Product Owner` | Intelligent agent that integrates import data to generate automated customs records, eliminating manual rework and preventing regulatory penalties.|
+| [**SyncDesk**](https://github.com/borroniff/sync-desk) | `Desenvolvedora Backend` | Helpdesk platform featuring automated triage, integrated chat, and audit dashboards to streamline customer support. |
+| [**AdaTrade**](https://github.com/borroniff/adatrade) | `Desenvolvedora Backend` | Analytics engine that transforms raw financial data into market intelligence through automated metrics and reporting. |
+| [**Mind Doc Analyzer**](https://github.com/borroniff/mind-doc-analyzer) | `Desenvolvedora Backend` | Solution built with a modular backend API, designed for intelligent document extraction, processing and analysis. |
+| [**Aprenda Scrum**](https://github.com/borroniff/aprenda-scrum) | `Product Owner` | Web application for Scrum framework learning, featuring quizzes and tests. |
 
 
 <div align="center">
 <img src="https://media.tenor.com/rysQ0YYMcxEAAAAi/cogumelo-mario-bros.gif" alt="Cogumelo Mario Bros" width="150" />
 </div>
+
+
 
 <div align="center">
   
