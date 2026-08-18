@@ -21,7 +21,6 @@ Meu objetivo é traduzir as necessidades dos usuários em soluções técnicas r
 > Reta final da graduação! Cursando o último semestre.
 
 <div align="center">
-<br>
 
 ### Interesses:
 
@@ -35,7 +34,6 @@ Meu objetivo é traduzir as necessidades dos usuários em soluções técnicas r
 ![Design de Sistemas](https://img.shields.io/badge/Design%20de%20Sistemas-555555?style=for-the-badge)
 
 </div>
-<br>
 
 ## ✨ Conheça meus projetos:
 
