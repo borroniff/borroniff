@@ -14,8 +14,8 @@ Meu objetivo é traduzir as necessidades dos usuários em soluções técnicas r
 
 ### Atualmente focada em:
 
-> 🚀 **Product Ownership do Projeto ?** <br>
-> Liderando a estratégia e o backlog do produto. *([Clique aqui]() e dê uma espiada!)*
+> 🚀 **Product Ownership do Synapse** <br>
+> Liderando a estratégia e o backlog do produto. *([Clique aqui](https://github.com/Titus-System/synapse) e dê uma espiada!)*
 
 > 🎓 **Análise e Desenvolvimento de Sistemas** <br>
 > Reta final da graduação! Cursando o último semestre.
